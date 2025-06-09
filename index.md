@@ -1,3 +1,9 @@
+---
+layout: default
+title: Proposal
+nav_order: 1
+---
+
 # SynergyTune: A Hybrid Deep Learning Approach to Personalized Music Recommendation Integrating Collaborative, Content, and Lyric-Based Features
 
 ## 1. Introduction/Background
