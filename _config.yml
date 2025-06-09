@@ -1,8 +1,9 @@
-title: RecSys: SynergyTune
+title: "RecSys: SynergyTune"
 description:  A Hybrid Deep Learning Approach to Personalized Music Recommendation Integrating Collaborative, Content, and Lyric-Based Features
 theme: just-the-docs
 
-url: https://electronic-slag.github.io
+url: "https://electronic-slag.github.io"
+baseurl: "/cs7641-docs"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
